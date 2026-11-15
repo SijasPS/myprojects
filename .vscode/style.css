@@ -1,0 +1,22 @@
+body {
+    background-color:White;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2 {
+   margin-top:20px;
+}
+table {
+    margin:30px;
+    border:collapse, align:center;
+    width:80%;
+    background-color: antiquewhite;
+}
+th,td {
+    border: 1px;
+    padding: 10px;
+    text-align:center;
+}
+tr {
+    background-color: burlywood;
+}
